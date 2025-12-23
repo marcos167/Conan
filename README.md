@@ -3,6 +3,14 @@
 **Proprietário:** Conan  
 **Empresa:** ShoppingNow LTD (UK & Singapore)
 
+## 🌐 Aplicativo Online
+
+**URL de Produção**: https://conan-gamma.vercel.app
+
+Acesse agora e explore todos os módulos do superaplicativo!
+
+---
+
 ## 🌟 Visão Geral
 
 O **Show** é um superaplicativo revolucionário que integra comércio eletrônico, fintech, telecomunicações, logística e redes sociais em uma única plataforma segura e verificada.

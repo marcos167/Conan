@@ -1,5 +1,13 @@
 # 🚀 Guia de Deploy - Show Superaplicativo
 
+## ✅ Deploy Concluído!
+
+🌐 **URL de Produção**: https://conan-gamma.vercel.app
+
+O aplicativo está online e funcionando perfeitamente com todos os 8 módulos!
+
+---
+
 ## ✅ Código no GitHub
 
 O código foi enviado com sucesso para:
